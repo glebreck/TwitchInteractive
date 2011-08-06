@@ -3,7 +3,7 @@
 ?>
 		<div id="top" class="class_top">
 			<div id="logo" class="class_logo">
-				<img src="/assets/images/site/home_logo.png" />
+				<img src="/assets/images/twitch_logo.png" />
 			</div>
 			<div id="nav" class="class_nav">
 				<div class="nav_item">

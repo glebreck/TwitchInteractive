@@ -21,7 +21,11 @@ body {
 
 .class_logo {
 	position: relative;
+	width: 379px;
+	height: 83px;
+	margin: 0px auto 0px auto;
 	top: 25%;
+	
 }
 
 .class_nav {
@@ -144,7 +148,7 @@ body {
 }
 
 .scrollable .items {
-	width: 4800px;
+	width: 8000px;
 	position: absolute;
 	clear: both;
 }
@@ -170,6 +174,27 @@ body {
 	margin: 20px 20px 0px 10px;
 	text-align: left;
 	font-size: 12px;
+}
+
+.views_link {
+	float: right;
+	width: 300px;
+	margin: 20px 20px 0px 10px;
+	text-align: left;
+	font-size: 12px;
+}
+
+.views_link a {
+	text-decoration: none;
+	font-style:italic;
+	color: #00aced;
+}
+
+.views_link a:hover {
+	text-decoration: none;
+	font-style: italic;
+	font-weight: bold;
+	color: #3a2213;
 }
 
 .tooltip {

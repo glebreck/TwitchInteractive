@@ -25,7 +25,7 @@ echo link_tag('assets/css/styles.css');
   	a totally new experience in online
   </div>
   <div id="comming" class="comming">
-  	Coming Soon July 2011!
+  	Coming Soon August 2011!
   </div>
   <div id="miss" class="miss">
   	make sure and come back cause you don't wanna miss this
